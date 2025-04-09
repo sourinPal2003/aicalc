@@ -23,9 +23,10 @@ aicalc/
 
 1. Clone the repository:
    git clone https://github.com/sourinPal2003/aicalc.git
+   
    cd aicalc
 
-2. Install dependencies:
+3. Install dependencies:
 
    Frontend:
    cd aicalcmern  
@@ -35,7 +36,7 @@ aicalc/
    cd ../backend  
    npm install
 
-3. Run the project:
+4. Run the project:
 
    Start Frontend:
    npm run dev
